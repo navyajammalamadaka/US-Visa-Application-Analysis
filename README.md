@@ -4,7 +4,7 @@ As part of the project, we analysed the US Visa applications across the globe an
 
 Key Technologies: PySpark, SparkML, SparkSQL
 
-#Problem Statement and Objectives
+# Problem Statement and Objectives
 
 An unimaginable amount of people applies for US visas every year. The amount of data gathered
 and information available to process is immense, wherein the processed data can have several use
